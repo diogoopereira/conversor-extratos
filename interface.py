@@ -59,7 +59,7 @@ def main():
             # Espaço adicional para mover a logo para baixo
             st.write("")
             st.write("")
-            st.image(str(logo_path), width=100)
+            st.image(str(logo_path), width=500)
         
         # Coluna do título
         with col2:
